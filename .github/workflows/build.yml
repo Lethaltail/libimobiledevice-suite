@@ -33,6 +33,7 @@ jobs:
           pkgconf
           mingw-w64-${{ matrix.arch }}-libzip
           mingw-w64-${{ matrix.arch }}-github-cli
+          mingw-w64-${{ matrix.arch }}-libxml2
           mingw-w64-${{ matrix.arch }}-curl
 
     - uses: actions/checkout@v4
