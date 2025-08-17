@@ -1,6 +1,6 @@
 # libimobiledevice-suite (MINGW64)
 
-*A library to communicate with services on iOS devices using native protocols.*
+*A precompiled suite of libraries and utilities that communicate with services on iOS devices using native protocols.*
 
 ![](https://github.com/lethaltail/libimobiledevice-suite/actions/workflows/build.yml/badge.svg)
 
